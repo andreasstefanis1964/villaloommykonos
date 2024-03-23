@@ -79,7 +79,7 @@
       "rejectText": "REJECT"
     },
     "cookiesAlertType": "1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "mcSmartCart": {
@@ -2018,6 +2018,24 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
+          "_params": {}
+        },
+        {
+          "alias": "eb-chats-widget",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-chats-widget",
+          "_sourceTheme": "hotelm4",
+          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
+          "_cid": "u7PSkKiZ4S",
+          "_anchor": "eb-chats-widget-1n",
+          "safe": {
+            "id": 25073,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxBwX\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": "chat",
           "_params": {}
         }
       ]
